@@ -6,9 +6,11 @@ def get_data():
 	return [
 		{
 			"module_name": "Errorges",
+                        "_doctype":"Errors",
 			"color": "red",
 			"icon": "octicon octicon-file-directory",
-			"type": "module",
+			"type": "link",
+                        "link": "List/Errors",
 			"label": _("Errorges")
 		}
 	]
