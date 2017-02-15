@@ -11,6 +11,6 @@ def get_data():
 			"icon": "octicon octicon-file-directory",
 			"type": "link",
                         "link": "List/Errors",
-			"label": _("Errorges")
+			"label": _("Errors")
 		}
 	]
